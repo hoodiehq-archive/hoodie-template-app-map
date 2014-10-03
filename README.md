@@ -19,7 +19,7 @@ This is a list of things needs to be done:
 - clone the hoodie-moufle
 - check if the .gitignore file is update
 - add leafletjs.com to the boilerplate
-- hook up the map functions like save, load and edit to hoodie
+- hook up the map functions like save, load and edit to hoodie, so you can add, manage and save markers
 - keep it simple and write comments, so everyone will understand your code
 - write a small tutorial about the boilerplate
 
