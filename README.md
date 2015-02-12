@@ -6,7 +6,7 @@ A boilerplate app module, you can use to build your own application on it!
 Create a new hoodie app in your local enviroment with
 
 ````
-hoodie new mapApp -t "zoepage/hoodie-template-app-map"
+hoodie new mapApp -t "hoodiehq/hoodie-template-app-map"
 ````
 
 ## Find out how it was made
