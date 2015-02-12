@@ -10,7 +10,7 @@ hoodie new mapApp -t "zoepage/hoodie-template-app-map"
 ````
 
 ## Find out how it was made
-You can read a thorough breakdown of how this app was created with Hoodie [here](docs.hood.ie/en/tutorials/map-app.html).
+You can read a thorough breakdown of how this app was created with Hoodie [here](http://docs.hood.ie/en/tutorials/map-app.html).
 
 
 If you have any questions, please let me know!
