@@ -9,19 +9,8 @@ Create a new hoodie app in your local enviroment with
 hoodie new mapApp -t zoepage/hoodie-template-app-map
 ````
 
-## Notice!
-This boilerplate app is still in progress!
-But you can help us to build it!
-
-## Contribute
-This is a list of things needs to be done:
-
-- clone the hoodie-moufle
-- check if the .gitignore file is update
-- add leafletjs.com to the boilerplate
-- hook up the map functions like save, load and edit to hoodie, so you can add, manage and save markers
-- keep it simple and write comments, so everyone will understand your code
-- write a small tutorial about the boilerplate
+## Find out how it was made
+You can read a thorough breakdown of how this app was created with Hoodie [here](docs.hood.ie/en/tutorials/map-app.html).
 
 
 If you have any questions, please let me know!
